@@ -1,45 +1,27 @@
 {
- "work" :
-  [
-{
-  title: "asdasfas",
-  list: "1",
-  order:"1",
-  work:
-  {
-    1: "kdjbvjbdsv",
-    2: "kdjbvjbdsv",
-    3: "kdjbvjbdsv",
-    4: "kdjbvjbdsv" 
-  }
-},
-
-
-{
-  title: "new lkfvlkdfnkjbfng",
-  list: "0",
-  order:"2",
-  work:"ljfvnkjdfbvb"
-},
-
-  {
-  title: "new lkfvlkdfnkjbfng",
-  list: "0",
-  order:"3",
-  work:""
-},
-{
-  title: "asdasfas",
-  list: "1",
-  order:"4",
-  work:
-  {
-    1: "kdjbvjbdsv",
-    2: "kdjbvjbdsv",
-    3: "kdjbvjbdsv",
-    4: "kdjbvjbdsv" 
-  }
-}
-
-]
+  "work": [
+    {
+      "title": "asdasfas",
+      "list": "1",
+      "order": "1",
+      "work": [
+        "kdjbvjbdsv",
+         "kdjbvjbdsv",
+        "kdjbvjbdsv",
+        "kdjbvjbdsv"
+      ]
+    },
+    {
+      "title": "new lkfvlkdfnkjbfng",
+      "list": "0",
+      "order": "2",
+      "work": "ljfvnkjdfbvb"
+    },
+    {
+      "title": "new lkfvlkdfnkjbfng",
+      "list": "0",
+      "order": "3",
+      "work": ""
+    }
+  ]
 }
