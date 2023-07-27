@@ -1,4 +1,6 @@
 {
+ "work" :
+  [
 {
   title: "asdasfas",
   list: "1",
@@ -37,7 +39,7 @@
     3: "kdjbvjbdsv",
     4: "kdjbvjbdsv" 
   }
-},
+}
 
-
+]
 }
