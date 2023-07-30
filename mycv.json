@@ -1,7 +1,9 @@
 {
   "work": [
     {
-      "title": "WORK IN MADAC",
+      "title": "WORK IN MADAC, (2022 - untill now)",
+      "job_title": "IT SUPPORT",
+      "date": "2022 - Until Now",
       "list": "1",
       "order": "1",
       "work": [
@@ -12,16 +14,20 @@
       ]
     },
     {
-      "title": "new lkfvlkdfnkjbfng",
-      "list": "0",
-      "order": "2",
-      "work": "ljfvnkjdfbvb"
+      "title": "WORK IN MADAC, (2022 - untill now)",
+      "job_title": "IT SUPPORT",
+      "date": "2022 - Until Now",
+      "list": "1",
+      "order": "1",
+      "work": [
+        "NETWORK MANGER",
+         "IT SUP",
+        "PROGRAM NETWORK",
+        "WORK WORK"
+      ]
     },
-    {
-      "title": "new lkfvlkdfnkjbfng",
-      "list": "0",
-      "order": "3",
-      "work": ""
-    }
+    
+    
+    
   ]
 }
