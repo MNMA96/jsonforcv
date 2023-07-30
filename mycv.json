@@ -10,7 +10,13 @@
         "Building the entire network structure and making explanatory diagrams",
         "Establishing, programming, and equipping the network in 2 buildings",
         "Create a cloud system to monitor all access points and monitor the network",
-        "Programming a storage server (cloud) for the organization with many other accompanying services"
+        "Programming a storage server (cloud) for the organization with many other accompanying services",
+        "Programming Windows Server (AD DS) with many rolls",
+        "Create a VPN server (OpenVPN)",
+        "Creating a server for the Internet of things and converting the IT office into a smart office",
+        "Create a web server and host websites",
+        
+        
       ]
     },
     {
