@@ -22,8 +22,7 @@
       "title": "Saudi Council of Engineers",
       "subtitle": "",
       "type": "cert",
-      "border": "0",
-       "border": "1"
+      "border": "0"
     },
     {
       "title": "Network Engnering",
