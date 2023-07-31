@@ -3,32 +3,39 @@
     {
       "title": "CYBERSECURITY INTRODUCTION & ESSENTIALS",
       "subtitle": "",
-      "type": "cert"
+      "type": "cert",
+       "border": "1"
     },
     {
       "title": "INTRODUCTION TO INTERNET OF THINGS",
       "subtitle": "",
-      "type": "cert"
+      "type": "cert",
+       "border": "1"
     },
     {
       "title": "CCNA R&S: SCALING NETWORKS",
       "subtitle": "",
-      "type": "cert"
+      "type": "cert",
+       "border": "1"
     },
     {
       "title": "Saudi Council of Engineers",
       "subtitle": "",
-      "type": "cert"
+      "type": "cert",
+      "border": "0",
+       "border": "1"
     },
     {
       "title": "Network Engnering",
-      "subtitle": "",
-      "type": "edu"
+      "collage": "TVTC",
+      "type": "edu",
+       "border": "1"
     },
     {
       "title": "Computer Networks",
-      "subtitle": "",
-      "type": "edu"
+     "collage": "TAIBAH",
+      "type": "edu",
+      "border": "0"
     }
   ]
 }
