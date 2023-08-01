@@ -6,7 +6,7 @@
       "date": "2022 - UNTIL NOW",
       "list": "1",
       "work": [
-        "network administrator in all buildings of the institution (4 buildings)",
+        "network administrator in all buildings of the institution (4 buildings, 8 Control rooms, 2 Datacenter)",
         "building the entire network structure and making explanatory diagrams",
         "establishing, programming, and equipping the network in 2 buildings",
         "create a cloud system to monitor all access points and monitor the network",
@@ -15,7 +15,16 @@
         "create a vpn server (openvpn)",
         "creating internet of things server and converting the it office into a smart office",
         "create a web server and host websites",
-        "programming routers with load-balance and combine speeds to increase internet efficiency"
+        "programming routers with load-balance and combine speeds to increase internet efficiency",
+        "Central management and programming many IP phone",
+        "Configure cameras and connecting them to the network and remote control",
+        "Make a portable audio system and connect it to the network and control it via mobile phone",
+        "Developing interactive screens and integrating the computer with it to become two in one",
+        "Providing technical support of all kinds and solving problems (hardware, software, network, printers, etc.)",
+        "Providing media material to the Information Technology Department, producing educational and promotional videos, and designing the logo and identity of the department",
+        
+        
+        
         
       ]
     },
@@ -28,7 +37,8 @@
         "Configure and install switches",
         "Configure and install security cameras",
         "Configure and install key card machine (test,update,reading,open,initialize)",
-        "WORK WORK"
+        "Providing all kinds of technical support and solving problems"
+        
       ]
     }
     
