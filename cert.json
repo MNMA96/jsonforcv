@@ -16,6 +16,12 @@
       "title": "CISCO: CCNA R&S: SCALING NETWORKS",
       "subtitle": "",
       "type": "cert",
+       "border": "1"
+    },
+     {
+      "title": "MCIT: SoftSkills",
+      "subtitle": "",
+      "type": "cert",
        "border": "0"
     },
     {
