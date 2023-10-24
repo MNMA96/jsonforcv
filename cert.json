@@ -1,7 +1,7 @@
 {
   "arr": [
     {
-      "title": "CISCO: CYBERSECURITY INTRODUCTION & ESSENTIALS",
+      "title": "CISCO: CCNA R&S: SCALING NETWORKS",
       "subtitle": "",
       "type": "cert",
        "border": "1"
@@ -13,7 +13,19 @@
        "border": "1"
     },
     {
-      "title": "CISCO: CCNA R&S: SCALING NETWORKS",
+      "title": "CISCO: Network Defense",
+      "subtitle": "",
+      "type": "cert",
+       "border": "1"
+    },
+    {
+      "title": "CISCO: Cyber Threat Management",
+      "subtitle": "",
+      "type": "cert",
+       "border": "1"
+    },
+    {
+      "title": "CISCO: CYBERSECURITY INTRODUCTION & ESSENTIALS",
       "subtitle": "",
       "type": "cert",
        "border": "1"
