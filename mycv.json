@@ -6,19 +6,18 @@
       "date": "2022 - UNTIL NOW",
       "list": "1",
       "work": [
-        "network administrator in all buildings of the institution (4 buildings, 8 Control rooms, 2 Datacenter)",
-        "building the entire network structure and making explanatory diagrams",
-        "establishing, programming, and equipping the network in 2 buildings",
-        "create a cloud system to monitor all access points and monitor the network",
-        "programming a storage server (cloud) for the organization with many accompanying services",
-        "programming windows server (ad ds) with many rolls",
-        "create a vpn server",
-        "create a web server and host websites",
-        "create a server To inventory technical assets",
+        "Network Manger",
+        "Establish and configure the network infrastructure for an institution encompassing 4 buildings, 8 control rooms, and 2 data centers, accompanied by the creation of explanatory diagrams",
+        "Deploy and program network systems in 2 buildings, ensuring seamless functionality",
+        "Develop a cloud-based monitoring system for all access points and overall network surveillance",
+        "Program a comprehensive storage server (cloud) with various associated services",
+        "Configure a Windows Server (AD DS) with multiple roles to meet organizational needs",
+        "Create and manage servers (VPN, Storage, Inventory of Technical  Assets, Web Server)",
+        "Systems administration (Google Workspace, Microsoft 365)",
         "programming routers with load-balance and combine speeds to increase internet efficiency",
-        "Central management and programming many IP phone",
+        "Central management and steup IP phones",
         "Configure cameras and connecting them to the network and remote control",
-        "Make a portable audio system and connect it to the network and control it via mobile phone",
+        "Setup a portable audio system and connect it to the network and control it via mobile phone",
         "Developing interactive screens and integrating the computer with it to become two in one",
         "Providing technical support of all kinds and solving problems (hardware, software, network, printers, etc.)",
         "Providing media material to the Information Technology Department, producing educational and promotional videos, and designing the logo and identity of the department",
@@ -36,10 +35,14 @@
       "date": "2021 - 2022",
       "list": "1",
       "work": [
-        "Configure and install switches",
-        "Configure and install security cameras",
-        "Configure and install key card machine (test,update,reading,open,initialize)",
-        "Providing all kinds of technical support and solving problems"
+        "Set up and deployed switches and security cameras",
+        "Implemented and configured key card machines, including testing, updating, reading, opening, and initializing functions",
+        "Offered comprehensive technical support for troubleshooting and issues resolution",
+        "Conducted routine maintenance and updates on installed systems",
+        "Performed system upgrades and optimizations",
+        "Ensured compliance with security protocols during installations"
+
+
         
       ]
     }
